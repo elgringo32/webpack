@@ -1,1 +1,1 @@
-console.log("heya");
+(()=>{const e=document.getElementById("content"),t=document.createElement("div");e.appendChild(t),t.setAttribute("id","heading-section");const n=document.createElement("div");e.appendChild(n),n.setAttribute("id","hero-section");const d=document.createElement("div");e.appendChild(d),d.setAttribute("id","body-section")})();
